@@ -1,2 +1,2 @@
 # PythonPractice
-Oefenen met Python
+Practice with Python!
